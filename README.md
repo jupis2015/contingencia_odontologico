@@ -77,5 +77,5 @@ Sistema completo para la gestión de pacientes, priorización de citas y simulac
 
 1. **Clonar o descargar el repositorio**
 ```bash
-git clone [url-del-repositorio]
+git clone https://github.com/jupis2015/contingencia_odontologico.git
 cd contingencia_odontologico
