@@ -70,7 +70,7 @@ Sistema completo para la gestión de pacientes, priorización de citas y simulac
 
 ## 💻 Requisitos del Sistema
 
-- Python 3.6 o superior
+- Python 3.13.3  o superior
 - Sistema operativo: Windows, Linux o macOS
 
 ## 🔧 Instalación
