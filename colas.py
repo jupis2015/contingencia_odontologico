@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Autor: [Tu Nombre]
+Autor: [Henry Franco Velez]
 Descripción: Sistema de gestión de cola para consultorio odontológico.
-Versión: 7.3 - Validación completa de datos (rechaza nombres sin sentido)
+Versión: v1.0 - Validación completa de datos (rechaza nombres sin sentido)
 """
 
 import datetime
